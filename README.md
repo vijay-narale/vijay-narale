@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vijay 👋  <br>Engineering student focused on core CS fundamentals.<br><br>- Learning: C, Data Structures, Computer Organization, Digital Systems<br>- Interested in: Low-level systems, problem solving, building from scratch<br>- Currently building: small projects to understand how computers actually work<br>- Goal: Become a strong systems engineer, not just a code monkey<br><br>Tech stack:<br>C | C++ | Git | Linux<br>
+Hi, I'm Vijay 👋  <br>Engineering student focused on core CS fundamentals.<br><br>- Learning: C,C++,Python, Data Structures, Computer Organization, Digital Systems<br>- Interested in: Low-level systems, problem solving, building from scratch<br>- Currently building: small projects to understand how computers actually work<br>- Goal: Become a strong systems engineer, not just a code monkey<br><br>Tech stack:<br>C | C++ | Git | Linux<br>
 
 
 # 💻 Tech Stack:
